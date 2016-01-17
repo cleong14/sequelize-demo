@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "has_many_user",
+    "password": null,
+    "database": "has_many_blogs",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
